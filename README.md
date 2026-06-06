@@ -2,12 +2,6 @@
 
 Implementacion para Next.js App Router, Prisma y Supabase.
 
-## Abrir en Antigravity
-
-1. Abrir Antigravity.
-2. Seleccionar `Open Folder`.
-3. Elegir esta carpeta: `next-api-routes`.
-
 ## Crear proyecto en Supabase
 
 1. Entrar a `https://supabase.com/dashboard`.
